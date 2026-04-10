@@ -1,3 +1,7 @@
+-- Reupload
+-- Creators: SageOfMumsV2 and Xeradius
+-- Reupload by g00byk1dd
+-- NOOT NOOT!
 --loadstring(game:GetObjects("rbxassetid://382365669")[1].Source)()
 
 local msg = Instance.new("Message",workspace)
